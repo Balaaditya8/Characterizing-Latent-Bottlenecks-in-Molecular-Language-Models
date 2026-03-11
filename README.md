@@ -1,5 +1,3 @@
-# Characterizing-Latent-Bottlenecks-in-Molecular-Language-Models
-
 # Characterizing Latent Bottlenecks in Molecular Language Models
 
 ---
