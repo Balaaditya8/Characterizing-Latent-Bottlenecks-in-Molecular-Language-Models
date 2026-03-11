@@ -2,10 +2,6 @@
 
 # Characterizing Latent Bottlenecks in Molecular Language Models
 
-**ECE 285 – Deep Generative Models**  
-**Author:** Balaaditya Mukundan  
-**University:** UC San Diego  
-
 ---
 
 ## Overview
